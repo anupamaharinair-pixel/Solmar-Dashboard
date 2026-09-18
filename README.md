@@ -29,7 +29,7 @@ applying similar promo intensity during the organic summer (May–Jul) demand pe
 
 ```bash
 pip install -r requirements.txt
-streamlit run solmar_streamlit_app.py
+streamlit run solmar_streamlit_app(1).py
 ```
 
 
